@@ -8,4 +8,4 @@
 
 以下討論將分別對個人資料去識別化、去識別化要求、以及控制措施分別進行意見徵集，希望獲得各界的寶貴意見。
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/LmOQYeuGfzanFd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/LmOQYeuGfzanFd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
