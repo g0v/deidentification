@@ -1,5 +1,5 @@
 {
-  "name": "crowdfunding-ref1-gitbook",
+  "name": "personal-data-protection-ref1-gitbook",
   "version": "0.0.1",
   "description": "個資去識別化：草案 #1",
   "private": true,
@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/g0v/crowdfunding-ref1-gitbook.git"
+    "url": "https://github.com/g0v/personal-data-protection-ref1-gitbook.git"
   },
   "bugs": {
-    "url": "https://github.com/g0v/crowdfunding-ref1-gitbook/issues"
+    "url": "https://github.com/g0v/personal-data-protection-ref1-gitbook/issues"
   },
-  "homepage": "https://github.com/g0v/crowdfunding-ref1-gitbook"
+  "homepage": "https://github.com/g0v/personal-data-protection-ref1-gitbook"
 }
